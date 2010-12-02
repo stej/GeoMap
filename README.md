@@ -22,8 +22,14 @@ How to run it
 
 You run the application very easily: 
 
-    c:\> cd GeoMaps
-    c:\> bin\byscript\GeoMap.exe .\caches.db
+    ps> cd GeoMaps
+    ps> .\compile.ps1
+    ps> bin\byscript\GeoMap.exe .\caches.db
+    
+You can also download the binary files and data in Downloads section. Or click on the (direct link)[https://github.com/downloads/stej/GeoMap/GeoMap-bin.zip]. Then unzip it and simply run
+
+    ps> cd GeoMaps
+    ps> GeoMap.exe caches.db
     
 Data
 ----
