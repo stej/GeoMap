@@ -12,7 +12,7 @@ if (!(test-path $bin)) {
   mkdir $bin
 }
 gci $root\lib | copy-item -dest $bin
-$exe = join-path $bin MyCaches.exe
+$exe = join-path $bin GeoMap.exe
 if (!$skipcompilation) {
   & $compilator `
     "$root\Utilities.fs" `
