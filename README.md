@@ -15,7 +15,7 @@ It is possible to filter the caches by type, size and possibly by keywords, but 
 GMap.NET && SQLite
 ------
 
-The application uses (GMap.NET)[http://greatmaps.codeplex.com/]. It is a WinForm control that displays map of your choice (Google, Bing, ... ) and caches it. So, later when you open the application again, the map images are fetched from cache if possible. That means less troubles with internet connection.
+The application uses [GMap.NET](http://greatmaps.codeplex.com/). It is a WinForm control that displays map of your choice (Google, Bing, ... ) and caches it. So, later when you open the application again, the map images are fetched from cache if possible. That means less troubles with internet connection.
 
 How to run it
 -------------
@@ -26,7 +26,7 @@ You run the application very easily:
     ps> .\compile.ps1
     ps> bin\byscript\GeoMap.exe .\caches.db
     
-You can also download the binary files and data in Downloads section. Or click on the (direct link)[https://github.com/downloads/stej/GeoMap/GeoMap-bin.zip]. Then unzip it and simply run
+You can also download the binary files and data in Downloads section. Or click on the [direct link](https://github.com/downloads/stej/GeoMap/GeoMap-bin.zip). Then unzip it and simply run
 
     ps> cd GeoMaps
     ps> GeoMap.exe caches.db
