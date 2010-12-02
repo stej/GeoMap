@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MyCaches", "MyCaches.fsproj", "{FF212E8A-9F16-454F-9381-EDCA6F8A0774}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0A88EE1D-6255-488F-BDCB-DCFC0E9448A8}"
+	ProjectSection(SolutionItems) = preProject
+		Performance1.psess = Performance1.psess
+		Performance2.psess = Performance2.psess
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF212E8A-9F16-454F-9381-EDCA6F8A0774}.Debug|x86.ActiveCfg = Debug|x86
+		{FF212E8A-9F16-454F-9381-EDCA6F8A0774}.Debug|x86.Build.0 = Debug|x86
+		{FF212E8A-9F16-454F-9381-EDCA6F8A0774}.Release|x86.ActiveCfg = Release|x86
+		{FF212E8A-9F16-454F-9381-EDCA6F8A0774}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
